@@ -1,0 +1,4 @@
+RUN INSTALLATION OMADAC SCRIPT:
+
+For Cloud Space Omadac:
+bash <(curl -Ls https://bit.ly/omadaci5-13-30-8)
